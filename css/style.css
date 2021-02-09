@@ -1,0 +1,11 @@
+.btn-radius{
+   border-radius: 10em !important;
+}
+
+html,body {
+	font-family: "Helvetica";
+}
+
+.card-rounded{
+    border-radius: 2.5em !important;
+}
