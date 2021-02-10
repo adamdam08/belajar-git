@@ -3,9 +3,20 @@
 }
 
 html,body {
-	font-family: "Helvetica";
+	font-family: "Lucida Bright";
+    margin:0 !important;
 }
 
 .card-rounded{
     border-radius: 2.5em !important;
+}
+
+.btn-primary{
+    background-color: #0574ff !important;
+    color: #FFFFFF !important;
+}
+
+.btn-dark{
+    background-color: #000000 !important;
+    color: #FFFFFF !important;
 }
