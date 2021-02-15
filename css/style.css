@@ -5,18 +5,27 @@
 html,body {
 	font-family: "Lucida Bright";
     margin:0 !important;
+    background-image: url('img/7856.png');
+    width: auto;
+    background-size: 100% 100%;
 }
 
 .card-rounded{
     border-radius: 2.5em !important;
 }
 
+.text-center{
+    text-align: center !important;
+}
+
 .btn-primary{
     background-color: #0574ff !important;
     color: #FFFFFF !important;
+    font-size: 1.3vh 1.3vw;
 }
 
 .btn-dark{
     background-color: #000000 !important;
     color: #FFFFFF !important;
+    font-size: 1.3vh 1.3vw;
 }
